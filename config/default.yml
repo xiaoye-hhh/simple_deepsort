@@ -1,0 +1,10 @@
+train_parttern: './data/train/*/det/det.txt'
+test_dir: './data/train'
+out_dir: 'out'
+display: true
+max_feature: 10
+max_ttl: 100
+min_age: 5
+threshold: 0.35
+tolerate_range: 100
+distance_base_cost: 0.1
